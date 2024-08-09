@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # portal-gym
 Vue only 
 =======
